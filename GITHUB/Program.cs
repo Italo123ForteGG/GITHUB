@@ -12,6 +12,7 @@ namespace GITHUB
         {
             Console.WriteLine("Demonstração de Resultado: ");
             Console.WriteLine("Resultado número 01");
+            Console.WriteLine("Resultado numero 02");
         }
     }
 }
