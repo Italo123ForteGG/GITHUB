@@ -14,6 +14,7 @@ namespace GITHUB
             Console.WriteLine("Resultado número 01");
             Console.WriteLine("Resultado numero 02");
             Console.WriteLine("Resultado numero 03");
+            Console.WriteLine("Resultado numero 04");
         }
     }
 }
