@@ -10,6 +10,7 @@ namespace GITHUB
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Demonstração de Resultado: ");
         }
     }
 }
